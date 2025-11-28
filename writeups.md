@@ -41,7 +41,7 @@ when we try to execute it asks for a password since we don't have any password o
 
 <h3 style ="color:FF5347;"> Challenge 4 </h3>
 this task gives us a <a href="./challenges/check" style="color:#1E90FF;" download>check</a> executable and in the hint he tells us that the flag is the correct answer form our input. 
-I can either use "strings" or just the online tools like [dogbolt](https://dogbolt.org/) when i upload my file to dogbolt and i take the "binary ninja" decompiler's code it gives me this.
+I can either use "strings" or just the online tools like https://dogbolt.org when i upload my file to dogbolt and i take the "binary ninja" decompiler's code it gives me this.
 
 Its a simple C-like pseudocode.
 
